@@ -56,6 +56,13 @@ let questions = [
     'Bleach']
     ,
     answer:2
+  },{
+    question:'Which is my favorite kpop group?',
+    option:['BTS',
+    'Twice',
+    'EXO']
+    ,
+    answer:3
   }
 ]
 
